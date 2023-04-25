@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+    <bebidas>
+        <titulo>Coca-Cola:</titulo>
+        <descripcion>Refresco de cola carbonatado, servido en botella o en vaso con hielo.</descripcion>
+        <precio>2€</precio>
+        <categoria>Dulce</categoria>
+    </bebidas>
+    <bebidas>
+        <titulo>Cerveza:</titulo>
+        <descripcion>Cerveza rubia de tipo Lager, servida en botella o en vaso.</descripcion>
+        <precio>3€</precio>
+        <categoria>Amargo</categoria>
+    </bebidas>
+    <bebidas>
+        <titulo>Agua mineral:</titulo>
+        <descripcion>Agua mineral natural, servida en botella o en vaso con hielo.</descripcion>
+        <precio>1,5€</precio>
+        <categoria>Sin sabor</categoria>
+    </bebidas>
+    <bebidas>
+        <titulo>Zumo de naranja natural:</titulo>
+        <descripcion>Zumo de naranja recién exprimido, servido en vaso.</descripcion>
+        <precio>3,5€</precio>
+        <categoria>Dulce</categoria>
+    </bebidas>
+    <bebidas>
+        <titulo>Viña Ardanza Reserva:</titulo>
+        <descripcion>Vino tinto de la Rioja con una combinación de uvas Tempranillo y Garnacha, con notas de frutas rojas y especias.</descripcion>
+        <precio>25€</precio>
+        <categoria>Dulce</categoria>
+    </bebidas>
+    <bebidas>
+        <titulo>Raimat Abadia:</titulo>
+        <descripcion>Vino tinto de la región de Costers del Segre, con una combinación de uvas Cabernet Sauvignon, Merlot y Tempranillo, con notas de frutas negras y regaliz.</descripcion>
+        <precio>22€</precio>
+        <categoria>Dulce</categoria>
+    </bebidas>
+    <bebidas>
+        <titulo>Blanco Nieva Verdejo</titulo>
+        <descripcion>Vino blanco de la región de Rueda, con uvas Verdejo, con notas de frutas cítricas y toques de hierba fresca.</descripcion>
+        <precio>18€</precio>
+        <categoria>Dulce</categoria>
+    </bebidas>
+    <tapas>
+        <titulo>Croquetas de jamón:</titulo>
+        <descripcion>5 deliciosas croquetas de bechamel y jamón serrano fritas.</descripcion>
+        <precio>2,50€</precio>
+        <categoria>Salado</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Tortilla española:</titulo>
+        <descripcion>Una de las tapas más típicas de la cocina española, hecha con huevos, patatas y cebolla.</descripcion>
+        <precio>3,50€</precio>
+        <categoria>Salado</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Patatas bravas:</titulo>
+        <descripcion>Trozos de patata fritos con una salsa picante de tomate.</descripcion>
+        <precio>4€</precio>
+        <categoria>Picante</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Pulpo a la gallega:</titulo>
+        <descripcion>Trozos de pulpo cocido con aceite de oliva, pimentón y sal.</descripcion>
+        <precio>9€</precio>
+        <categoria>Salado</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Gambas al ajillo:</titulo>
+        <descripcion>Gambas salteadas en aceite de oliva con ajo y guindilla.</descripcion>
+        <precio>7€</precio>
+        <categoria>Salado</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Ensaladilla rusa:</titulo>
+        <descripcion>Una ensalada fría con patata, huevo cocido, atún, guisantes y mayonesa</descripcion>
+        <precio>3,50€</precio>
+        <categoria>Dulce</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Pincho de tortilla y chorizo:</titulo>
+        <descripcion>Un pincho con un trozo de tortilla española y chorizo.</descripcion>
+        <precio>2,50€</precio>
+        <categoria>Salado</categoria>
+    </tapas>
+    <tapas>
+        <titulo>Calamares a la romana:</titulo>
+        <descripcion> Anillas de calamar rebozadas y fritas.</descripcion>
+        <precio>7€</precio>
+        <categoria>Salado</categoria>
+    </tapas>
+    <Ensaladas>
+        <titulo>Ensalada César:</titulo>
+        <descripcion>Una ensalada clásica hecha con lechuga romana, pollo a la parrilla, croutones, queso parmesano y aderezo César.</descripcion>
+        <precio>8€</precio>
+        <categoria>Amargo</categoria>
+    </Ensaladas>
+    <Ensaladas>
+        <titulo>Ensalada de quinoa:</titulo>
+        <descripcion>Una ensalada saludable y sabrosa con quinoa, aguacate, tomate cherry, pepino, maíz y aliño de limón.</descripcion>
+        <precio>10€</precio>
+        <categoria>Amargo</categoria>
+    </Ensaladas>
+    <Ensaladas>
+        <titulo>Ensalada de salmón:</titulo>
+        <descripcion>Una ensalada fresca con salmón ahumado, espinacas, fresas, almendras tostadas y vinagreta de miel y mostaza.</descripcion>
+        <precio>12€</precio>
+        <categoria>Amargo</categoria>
+    </Ensaladas>
+    <Ensaladas>
+        <titulo>Ensalada Caprese:</titulo>
+        <descripcion>Una ensalada italiana con tomate, mozzarella fresca, albahaca y aceite de oliva. </descripcion>
+        <precio>8€</precio>
+        <categoria>Amargo</categoria>
+    </Ensaladas>
+    <Ensaladas>
+        <titulo>Ensalada de pollo:</titulo>
+        <descripcion>Una ensalada sustanciosa con lechuga, pollo a la parrilla, aguacate, huevo cocido, tomate y aderezo ranchero.</descripcion>
+        <precio>9€</precio>
+        <categoria>Salado</categoria>
+    </Ensaladas>
+    <Carnes>
+        <titulo>Chuletón de ternera:</titulo>
+        <descripcion>Un filete de carne de vaca con hueso, cocinado a la parrilla.</descripcion>
+        <precio>25€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Carnes>
+        <titulo>Solomillo de cerdo:</titulo>
+        <descripcion>Un filete de cerdo tierno y jugoso, servido con una salsa de tu elección (por ejemplo, salsa de champiñones o salsa de mostaza).</descripcion>
+        <precio>15€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Carnes>
+        <titulo>Pollo a la parrilla:</titulo>
+        <descripcion>Pechuga de pollo marinada y cocinada a la parrilla, servida con una guarnición de tu elección.</descripcion>
+        <precio>12€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Carnes>
+        <titulo>Costillas de cerdo:</titulo>
+        <descripcion>Costillas de cerdo tiernas y sabrosas, marinadas y cocinadas a la parrilla, servidas con una salsa de barbacoa.</descripcion>
+        <precio>18€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Carnes>
+        <titulo>Entrecot de ternera:</titulo>
+        <descripcion>Un filete de ternera jugoso y bien condimentado, cocinado a la parrilla.</descripcion>
+        <precio>22€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Carnes>
+        <titulo>Cordero al horno:</titulo>
+        <descripcion>Una pierna de cordero asada al horno con hierbas y especias, servida con una guarnición de tu elección.</descripcion>
+        <precio>20€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Carnes>
+        <titulo>Hamburguesa gourmet:</titulo>
+        <descripcion>Una hamburguesa jugosa y sabrosa con carne de res de alta calidad, queso cheddar, tocino crujiente y otros ingredientes de tu elección (por ejemplo, cebolla caramelizada o champiñones salteados).</descripcion>
+        <precio>15€</precio>
+        <categoria>Salado</categoria>
+    </Carnes>
+    <Pescados>
+        <titulo>Salmón a la parrilla:</titulo>
+        <descripcion>Un filete de salmón fresco, marinado y cocinado a la parrilla, servido con una guarnición de tu elección.</descripcion>
+        <precio>18€</precio>
+        <categoria>Dulce</categoria>
+    </Pescados>
+    <Pescados>
+        <titulo>Pulpo a la gallega:</titulo>
+        <descripcion>Una ración de pulpo cocido y sazonado con pimentón y aceite de oliva, servido con papas cocidas y una guarnición de ensalada.</descripcion>
+        <precio>16€</precio>
+    </Pescados>
+    <Pescados>
+        <titulo>Atún en costra de sésamo:</titulo>
+        <descripcion>Un filete de atún fresco, cubierto con semillas de sésamo y cocido a la parrilla, servido con una guarnición de verduras salteadas.</descripcion>
+        <precio>20€</precio>
+        <categoria>Salado</categoria>
+    </Pescados>
+    <Pescados>
+        <titulo>Gambas al ajillo:</titulo>
+        <descripcion>Gambas frescas cocinadas al ajillo con ajo, perejil y guindilla, servidas con pan tostado.</descripcion>
+        <precio>14€</precio>
+        <categoria>Salado</categoria>
+    </Pescados>
+     <Postres>
+        <titulo>Tarta de queso:</titulo>
+        <descripcion>Una tarta cremosa de queso con una base de galletas, cubierta con mermelada de frutos rojos y decorada con frutas frescas.</descripcion>
+        <precio>6€</precio>
+        <categoria>Dulce</categoria>
+    </Postres>
+    <Postres>
+        <titulo>Coulant de chocolate:</titulo>
+        <descripcion>Un bizcocho de chocolate con un interior cremoso y caliente, servido con una bola de helado de vainilla y sirope de chocolate.</descripcion>
+        <precio>8€</precio>
+        <categoria>Dulce</categoria>
+    </Postres>
+    <Postres>
+        <titulo>Tiramisú:</titulo>
+        <descripcion>Un postre italiano clásico hecho con bizcochos empapados en café, crema de mascarpone y cacao en polvo, servido en porciones individuales.</descripcion>
+        <precio>7€</precio>
+        <categoria>Dulce</categoria>
+    </Postres>
+    <Postres>
+        <titulo>Helado de vainilla con frutas del bosque:</titulo>
+        <descripcion>Una bola de helado de vainilla artesanal con frutos del bosque frescos y una galleta de chocolate crujiente.</descripcion>
+        <precio>5€</precio>
+        <categoria>Dulce</categoria>
+    </Postres>
+</platos>

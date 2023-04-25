@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+.navbar{
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    float: left;
+    border-bottom: solid white;
+}
+.en{
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: white;
+}
+.cuerpo{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.titu{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+.titulo{
+    font-weight: bold;
+    color: red;
+    text-decoration: solid;
+}
+.texto{
+    color: black;
+}
+.comida{
+    color: black;
+    font-weight: bold;
+}
+.lista{
+    list-style: none;
+}
+.Supremo{
+    margin: 0px;
+    background-image:url(fondo.jpg);
+    padding: 2%;
+}
+.precio{
+    color: green;
+}
+@media (max-width: 1000px) {
+    .titulo{
+        font-size: 160%;
+    }
+    .cuerpo{
+        font-size: 80%;
+    }
+    .titu{
+        font-size: 240%;
+    }
+}
